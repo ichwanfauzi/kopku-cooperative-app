@@ -19,12 +19,6 @@
 
 - **Project:** Kopku
 - **Course:** Pemrograman Berbasis Web (PBW)
-- Repositori tautan: tajuddinachmad/Kopku
-- **Author/team:**
-  1. Tajuddin Achmad - (A11.2025.16548)
-  2. Keyla Azzahra Mefia - (A11.2025.16533)
-  3. Cantik Indah Lestari - (A11.2025.16139)
-
 
 ## 🧾 Overview
 Kopku adalah rancangan aplikasi web kasir dan pengelolaan stok sederhana untuk kedai kopi kecil. Aplikasi direncanakan untuk membantu pencatatan transaksi, pengelolaan produk, pemantauan stok, dan penyajian ringkasan penjualan.
